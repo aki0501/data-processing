@@ -1,5 +1,3 @@
-experimenting with data processing techniques using pandas!
-
 ### Instructions for running:
 ```
 git clone git@github.com:aki0501/data-processing.git
