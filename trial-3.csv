@@ -1,0 +1,10 @@
+Experiment,Metric
+asparagus_bicubic,23.2746
+asparagus_gaussian,24.9562
+asparagus_noise,29.4652
+strawberries_bicubic,28.8034
+strawberries_gaussian,28.8411
+strawberries_noise,23.5354
+potatoes_bicubic,28.8291
+potatoes_gaussian,29.8234
+potatoes_noise,21.4724
